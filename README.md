@@ -6,6 +6,8 @@
 # [+] This is the first build, so please check screenshot before executing for next domain.
 
 
+# [+] INSTALL: 
+sudo apt-get install wkhtmltopdf
 # [+] To install Dependencies:
 
 - pip3 install -r requirements.txt
